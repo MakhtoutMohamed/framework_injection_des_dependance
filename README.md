@@ -9,5 +9,5 @@
 ![](img/6.png)
 ![](img/7.png)
 
-## the commande to run locally for local anotation is:
+## the cmd to run locally for local annotations is:
 #### mvn clean install
